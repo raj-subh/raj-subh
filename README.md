@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/subhash_raj1777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhash_raj1777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raj subhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj subhash" height="30" width="40" /></a>
-<a href="https://fb.com/raj subhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raj subhash" height="30" width="40" /></a>
+<a href="https://fb.com/subhash.shovik.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raj subhash" height="30" width="40" /></a>
 <a href="https://instagram.com/raj__subhash_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj__subhash_" height="30" width="40" /></a>
 </p>
 
