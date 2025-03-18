@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/subhash_raj1777" target="blank"><img src="https://img.shields.io/twitter/follow/subhash_raj1777?logo=twitter&style=for-the-badge" alt="subhash_raj1777" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Java Development**
+- 🌱 I’m currently learning **Spring Framework, Java Development**
 
 - 💬 Ask me about **Android Development, Java Development**
 
